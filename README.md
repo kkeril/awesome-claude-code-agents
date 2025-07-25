@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/awesome-claude-agents&type=Date)](https://star-history.com/#yourusername/awesome-claude-agents&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kkeril/awesome-claude-agents&type=Date)](https://star-history.com/#yourusername/awesome-claude-agents&Date)
 
 ---
 
