@@ -55,9 +55,9 @@ Simple, single-purpose agents that excel at specific tasks.
 
 | Name | Description | Tools Required | Link |
 |------|-------------|----------------|------|
-| Code Reviewer | Reviews code for best practices and bugs | None | [View](prompts/code-reviewer.md) |
-| Data Analyst | Analyzes datasets and provides insights | None | [View](prompts/data-analyst.md) |
-| Creative Writer | Generates creative content | None | [View](prompts/creative-writer.md) |
+| Code Reviewer | Reviews code for best practices and bugs | None | [View](prompts/code-reviewer-agent.md) |
+| Data Analyst | Analyzes datasets and provides insights | None | [View](prompts/data-analyst-agent.md) |
+| Creative Writer | Generates creative content | None | [View](prompts/creative-writer-agent.md) |
 
 ### Advanced Agents
 
@@ -65,9 +65,9 @@ Complex agents that handle multi-step reasoning and decision-making.
 
 | Name | Description | Tools Required | Link |
 |------|-------------|----------------|------|
-| Research Assistant | Conducts comprehensive research | Web Search, Analysis | [View](prompts/aresearch-assistant.md) |
-| Project Manager | Plans and tracks project progress | None | [View](prompts/project-manager.md) |
-| System Architect | Designs software architectures | None | [View](prompts/system-architect.md) |
+| Research Assistant | Conducts comprehensive research | Web Search, Analysis | [View](prompts/aresearch-assistant-agent.md) |
+| Project Manager | Plans and tracks project progress | None | [View](prompts/project-manager-agent.md) |
+| System Architect | Designs software architectures | None | [View](prompts/system-architect-agent.md) |
 
 ## 💡 Best Practices
 
